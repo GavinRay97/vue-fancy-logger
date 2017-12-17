@@ -1,0 +1,11 @@
+{
+  "name": "vue-logger",
+  "version": "1.0.0",
+  "description": "A colored debugging utility based on the Vue Devtools ready message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Ray",
+  "license": "ISC"
+}
